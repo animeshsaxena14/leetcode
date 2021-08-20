@@ -16,5 +16,8 @@ class Solution {
     public static void main(String ar[]) {
         Solution solution = new Solution();
         System.out.println(solution.firstUniqChar("aabb"));
+
     }
+
+
 }

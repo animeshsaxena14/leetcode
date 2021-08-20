@@ -13,6 +13,7 @@ public class SolutionTests {
         assertEquals(solution.firstUniqChar("google"), 4);
         assertEquals(solution.firstUniqChar("leetcode"), 0);
         assertEquals(solution.firstUniqChar("l"), 0);
+
     }
 
 }
